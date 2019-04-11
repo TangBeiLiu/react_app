@@ -1,5 +1,5 @@
 
-![React](../react_app/src/logo.svg)
+![React](image/logo.svg)
 
 ## Available Scripts
 
